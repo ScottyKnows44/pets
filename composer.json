@@ -1,0 +1,16 @@
+{
+  "name":"sthompson/328/pets",
+  "authors": [
+    {
+      "name": "Scott Thompson",
+      "email": "sthompson42@mail.greenriver.edu"
+    },
+    {
+      "name": "Artem Vityuk",
+      "email": "avityuk@mail.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
