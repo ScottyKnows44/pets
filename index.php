@@ -12,9 +12,9 @@ $f3 = Base::instance();
 // Default route
 $f3->route('GET / ', function() {
 
-    //$view = new Template();
-    //echo $view->render('views/home.html');
-    echo "<p>pet</p>";
+    $view = new Template();
+    echo $view->render('views/home.html');
+
 });
 
 // Run F3
